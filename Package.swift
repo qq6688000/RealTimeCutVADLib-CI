@@ -29,7 +29,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "RealTimeCutVADCXXLibrary",
-            url: "https://api.github.com/repos/qq6688000/RealTimeCutVADLib-CI/releases/assets/723618480",
+            url: "https://api.github.com/repos/qq6688000/RealTimeCutVADLib-CI/releases/assets/723618480/RealTimeCutVADCXXLibrary.xcframework.zip",
             checksum: "00c4a8cd5a22e634f34d744eb06aa88a4494e12a5f9d4573989129a1f4c7e76d"
         ),
     ]
